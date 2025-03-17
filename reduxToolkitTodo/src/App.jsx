@@ -10,7 +10,7 @@ function App() {
       <AddTodo />
       <Todos />
       <br />
-      <Counter/>
+      {/* <Counter/> */}
     </>
   );
 }
